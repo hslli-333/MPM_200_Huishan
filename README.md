@@ -3,6 +3,7 @@
 ==============================
 
 Text summarizing your project.
+My code output a modle sample of 5000 samples from the population. Use the modle sample to count sample numbers of different rehab centers and other covariations. After counting, I output the tables with the nnumbers. Then culculate the propotions and output plots to compare the numbers within the same plots and between servel plots. Lastly, I use my code to create files such cvs and pdf to save my outcome.
 
 ## Project Organization
 ------------
